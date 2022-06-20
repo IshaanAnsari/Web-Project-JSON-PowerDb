@@ -31,4 +31,4 @@
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Documentation
-[Link]([https://choosealicense.com/licenses/mit/](https://login2explore.com/jpdb/docs.html#jpdb-command-request))
+[Link](https://login2explore.com/jpdb/docs.html#jpdb-command-request)
