@@ -1,4 +1,4 @@
-# JsonPowerDB
+# JsonPowerDB Web Project
 ## Description
 `JsonPowerDB` is a Database Server with Developer friendly `REST API` services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database. Easy and fast to develop database applications without using any server side programming / scripting or without installing any kind of database.
 ![jpdb](https://user-images.githubusercontent.com/84808103/174570420-13e3d926-35e1-4048-b548-ec95c11bd9f3.jpg)
@@ -31,4 +31,4 @@
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Documentation
-[Documentation Link]([https://choosealicense.com/licenses/mit/](https://login2explore.com/jpdb/docs.html#jpdb-command-request))
+[Link]([https://choosealicense.com/licenses/mit/](https://login2explore.com/jpdb/docs.html#jpdb-command-request))
